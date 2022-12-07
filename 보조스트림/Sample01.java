@@ -1,4 +1,4 @@
-package 보조스트림
+package 보조스트림;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
