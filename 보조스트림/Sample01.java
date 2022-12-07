@@ -1,4 +1,4 @@
-package º¸Á¶½ºÆ®¸²;
+package ë³´ì¡°ìŠ¤íŠ¸ë¦¼
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -12,7 +12,7 @@ public class Sample01 {
 		FileOutputStream fos = new FileOutputStream("test3.txt");
 		DataOutputStream dos = new DataOutputStream(fos);
 
-		dos.writeUTF("°¡³ª´Ù");
+		dos.writeUTF("Â°Â¡Â³ÂªÂ´Ã™");
 		dos.writeDouble(3.14);
 		dos.writeInt(20);
 		dos.writeBoolean(true);
